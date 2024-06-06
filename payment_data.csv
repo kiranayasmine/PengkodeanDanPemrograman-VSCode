@@ -1,0 +1,11 @@
+PaymentID,Date,CustomerID,Amount,PaymentMethod,Status
+P001,2023-01-01,C001,100,Credit Card,Completed
+P002,2023-01-02,C002,150,PayPal,Pending
+P003,2023-01-03,C003,200,Bank Transfer,Completed
+P004,2023-01-04,C004,250,Credit Card,Completed
+P005,2023-01-05,C005,300,PayPal,Failed
+P006,2023-01-06,C001,120,Bank Transfer,Completed
+P007,2023-01-07,C002,220,Credit Card,Pending
+P008,2023-01-08,C003,180,PayPal,Completed
+P009,2023-01-09,C004,240,Bank Transfer,Completed
+P010,2023-01-10,C005,280,Credit Card,Pending

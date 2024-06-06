@@ -1,0 +1,11 @@
+CustomerID,Name,Email,JoinDate,Status
+C001,John Doe,john@example.com,2022-01-15,Active
+C002,Jane Smith,jane@example.com,2022-02-20,Inactive
+C003,Jim Brown,jim@example.com,2022-03-25,Active
+C004,Jack White,jack@example.com,2022-04-30,Active
+C005,Jill Black,jill@example.com,2022-05-05,Inactive
+C006,Joe Green,joe@example.com,2022-06-10,Active
+C007,Jess Blue,jess@example.com,2022-07-15,Active
+C008,Jay Pink,jay@example.com,2022-08-20,Inactive
+C009,Joy Yellow,joy@example.com,2022-09-25,Active
+C010,Jake Purple,jake@example.com,2022-10-30,Active

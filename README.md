@@ -54,6 +54,26 @@ Memperbaiki dan meningkatkan model sesuai dengan umpan balik dari pengguna.
 
 # **Visualisasi Diagram**
 **Piechart**
-![piechart](https://github.com/kiranayasmine/PengkodeanDanPemrograman-VSCode/assets/152698796/c5f58366-4630-42d8-b723-be806d3053cf)
+![piechart](https://github.com/kiranayasmine/PengkodeanDanPemrograman-VSCode/assets/152698796/1fd268d2-29d4-4e5f-88b6-2de49717ab09)
+
+**Diagram garis**
+![garis](https://github.com/kiranayasmine/PengkodeanDanPemrograman-VSCode/assets/152698796/31a4d0a8-bd4b-4380-a8d6-6c611d73bc24)
+
+**Diagram titik**
+![titik](https://github.com/kiranayasmine/PengkodeanDanPemrograman-VSCode/assets/152698796/11751ee2-c922-46b5-9d87-2761f6c6c15a)
+
+**Actual vs Predicted Sales**
+![actual vs predicted sales](https://github.com/kiranayasmine/PengkodeanDanPemrograman-VSCode/assets/152698796/2e986239-3a60-4b33-a1c1-436292c1a17d)
+
+**Diagram batang total pembayaran per metode pembayaran**
+![batang total pembayaran per metode](https://github.com/kiranayasmine/PengkodeanDanPemrograman-VSCode/assets/152698796/0f8d2373-db5c-45a9-bc68-5f3d5d2d5e11)
+
+**Diagram batang total penjualan per produk**
+![batang total penjualan per produk](https://github.com/kiranayasmine/PengkodeanDanPemrograman-VSCode/assets/152698796/6d9f52cf-dbe1-435c-aa14-ec37cf7e21e5)
+
+**Diagram batang total produksi per produk**
+![batang total produksi per produk](https://github.com/kiranayasmine/PengkodeanDanPemrograman-VSCode/assets/152698796/976ad254-55be-4644-8ff3-5d3c4df03205)
+
+
 
 **

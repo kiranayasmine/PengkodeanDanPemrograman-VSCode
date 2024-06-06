@@ -1,7 +1,5 @@
 # PengkodeanDanPemrograman-VSCode
 
-# PengkodeanDanPemrograman-VSCode
-
 # **Dibuat oleh**
 **Nama**: Kirana Yasmine  
 **NIM**: 12030122130185
